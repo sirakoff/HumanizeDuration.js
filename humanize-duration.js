@@ -88,14 +88,14 @@
     },
     el: greek,
     en: {
-      y: function (c) { return 'year' + (c === 1 ? '' : 's') },
-      mo: function (c) { return 'month' + (c === 1 ? '' : 's') },
-      w: function (c) { return 'week' + (c === 1 ? '' : 's') },
-      d: function (c) { return 'day' + (c === 1 ? '' : 's') },
-      h: function (c) { return 'hour' + (c === 1 ? '' : 's') },
-      m: function (c) { return 'minute' + (c === 1 ? '' : 's') },
-      s: function (c) { return 'second' + (c === 1 ? '' : 's') },
-      ms: function (c) { return 'millisecond' + (c === 1 ? '' : 's') },
+      y: function (c) { return 'Year' + (c === 1 ? '' : 's') },
+      mo: function (c) { return 'Month' + (c === 1 ? '' : 's') },
+      w: function (c) { return 'Week' + (c === 1 ? '' : 's') },
+      d: function (c) { return 'Day' + (c === 1 ? '' : 's') },
+      h: function (c) { return 'Hour' + (c === 1 ? '' : 's') },
+      m: function (c) { return 'Minute' + (c === 1 ? '' : 's') },
+      s: function (c) { return 'Second' + (c === 1 ? '' : 's') },
+      ms: function (c) { return 'Millisecond' + (c === 1 ? '' : 's') },
       decimal: '.'
     },
     es: {
